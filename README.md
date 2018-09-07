@@ -15,14 +15,14 @@ LINK for Blynk - "https://www.blynk.cc/"
 
 Then next comes services which consists of triggers and feeds which help to store data and give further information according to project need which serves as triggers, here Adafruit IO comes in game which have simplified interface for dashboard, feeds and triggers which allows you to render according to your needs but here is one problem! this have limited access for free which includes 10 feeds only!!
 
-Link for Adafruit IO - "io.adafruit.com"
+Link for Adafruit IO - "https://io.adafruit.com"
 
 What your IOT project needs the most is automation, like when you want your projects to work upon independtly and take action which is extremly simplified by "IFTTT" which allows you to make controls and commands according to your automated work!
 
-Link for IFTTT - "ifttt.com"
+Link for IFTTT - "https://ifttt.com"
 
 # So whats different with this project?
 
 Basic idea for this project is intergrating all three solutions in one place which includes Device control(Blynk), Triggers and feeds(Adafruit IO) and automation(IFTTT) so that all your IOT work is in one place and simplified for future updates!
 
-**STILL IN DEVELOPMENT MODE**
+**//STILL IN DEVELOPMENT MODE - Stay Tuned//**

@@ -12,7 +12,7 @@ When you come with an idea of controlling your device/hobby projects with intern
 
 Ummmm, for basic projects which inlclude a beautiful interface and simplicity is "**Blynk**" which allows you to flash code and then work with your Wifi and internet connectivity 
 
-LINK for Blynk - "https://www.blynk.cc/"
+Link for Blynk - "https://www.blynk.cc/"
 
 Then next comes services which consists of triggers and feeds which help to store data and give further information according to project need which serves as triggers, here **Adafruit IO** comes in game which have simplified interface for dashboard, feeds and triggers which allows you to render according to your needs but here is one problem! this have limited access for free which includes 10 feeds only!!
 
